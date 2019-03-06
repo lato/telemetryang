@@ -1,0 +1,7 @@
+bitarray==0.8.3
+enum34==1.1.6
+lxml==4.3.2
+pyang==1.7.8
+pyangbind==0.8.1
+regex==2019.2.21
+six==1.12.0
